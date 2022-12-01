@@ -8,10 +8,10 @@ django = "*"
 django-crispy-forms = "*"
 pillow = "*"
 django-ckeditor = "*"
-environs = {extras = ["django"], version = "*"}
 psycopg2-binary = "*"
 whitenoise = "*"
 gunicorn = "*"
+environs = {extras = ["django"], version = "*"}
 
 [dev-packages]
 
